@@ -1,0 +1,46 @@
+{
+
+    "produtos": [
+      { 
+        "id": 1, 
+        "src":"img/clothes/bermuda.linho bege.PNG",
+        "text": "Bermuda de Linho",
+        "value": "R$83,90" },
+    { 
+        "id": 2, 
+        "src":"img/clothes/calça jeans.PNG",
+        "text": "Calça Jeans",
+        "value": "R$109,90" },
+    { 
+        "id": 3, 
+        "src":"img/clothes/Camisa básica.prada.PNG",
+        "text": "Camisa Básica Prada",
+        "value": "R$155,99" },
+    { 
+        "id": 4, 
+        "src":"img/clothes/camisa gola polo.amarela.PNG",
+        "text": "Camisa Gola Polo",
+        "value": "R$85,99" },
+    { 
+        "id": 5, 
+        "src":"img/clothes/camisa social manga curta.PNG",
+        "text": "Camisa Social Manga Curta",
+        "value": "R$89,99" },
+    { 
+        "id": 6, 
+        "src":"img/clothes/camisa social.azul.PNG",
+        "text": "Camisa Social Azul",
+        "value": "R$123,99" },
+    { 
+        "id": 7, 
+        "src":"img/clothes/calça social.bege.PNG",
+        "text": "Calça Social",
+        "value": "R$169,99" },
+    { 
+        "id": 8, 
+        "src":"img/clothes/camisa social.vermelha.PNG",
+        "text": "Camisa Social Vermelha",
+        "value": "R$123,99" }
+    ]
+
+  }
